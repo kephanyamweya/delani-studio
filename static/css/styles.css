@@ -52,7 +52,7 @@ body{
 .design-showing, .development-showing, .product-showing{
     display: none;
 }
-.design-hidden, . development-hidden, .product- hidden{
+.design-hidden, .development-hidden, .product- hidden{
     cursor: pointer;
 }
 #portfolio{
