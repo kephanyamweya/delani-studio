@@ -55,5 +55,6 @@ body{
 }
 .design-hidden, .development-hidden, .product-hidden{
     cursor: pointer;
+    
 
 }
