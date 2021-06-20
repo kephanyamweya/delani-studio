@@ -22,3 +22,16 @@ body{
 #about{
     text-align: center;
     margin-top: 50px;
+}
+
+#serv{
+    background-image: url(../images/s_image.jpg);
+    background-size: cover;
+    height: 50vh;
+    text-align: center;
+    color: white;
+    padding-top: 80px;
+}
+#service{
+    margin-top: 50px;
+}
