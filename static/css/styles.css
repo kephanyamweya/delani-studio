@@ -35,3 +35,25 @@ body{
 #service{
     margin-top: 50px;
 }
+
+
+#work{
+    text-align: center;
+    margin-top: 50px;
+}   
+
+.activities{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.design-showing, .development-showing, .product-showing{
+    none;
+}
+.design-hidden, .development-hidden, .product-hidden{
+    cursor: pointer;
+
+}
