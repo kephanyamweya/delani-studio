@@ -1,5 +1,5 @@
-$(document). ready(function (){
-    $("design") .click(function () {
+$(document). ready(function(){
+    $(".design").click(function() {
         $(".design-showing").toggle();
         $(".design-hidden") .toggle();
     }
@@ -18,7 +18,6 @@ $(".product").click(function() {
 
 $("sbmt").click(function(event)
 {
-    event.preventDefault();
     
     let email=$("#contact-email").val();
 
