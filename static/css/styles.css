@@ -22,7 +22,6 @@ body{
 }
 
 #serv{
-    background-image: url(../images/s_image.jpg);
     background-size: cover;
     height: 50vh;
     text-align: center;
@@ -73,7 +72,6 @@ body{
 
 
 #contact{
-    background-image: url(../images/c_image.jpg);
     text-align: center;
     background-size: cover;
     margin-top: 50px;
